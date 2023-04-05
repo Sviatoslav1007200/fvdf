@@ -1,0 +1,33 @@
+
+body{
+    min-width: 1800px;
+}
+.container{
+    max-width: 1800px;
+    margin: 0px auto;
+    padding: 0px 15px;
+}
+
+html {
+	background-color: lightgray;
+	font-family: Arial;
+}
+.header{
+    background: rgb(152, 151, 153);
+    margin:-22px 0px 0px 0px;
+    height:150px;
+    width: 2000px;
+}
+
+.Gd{
+    margin: 500px 0px 0px 0px;
+}
+.Gdd{
+    margin: 200px 50px 0px 0px;
+}
+.Gddd{
+    margin: -900px 0px 0px -650px;
+}
+.p{
+    margin: 0px 0px 0px 1240px;
+}
